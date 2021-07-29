@@ -1,7 +1,7 @@
 # RevGadgets
 [![Build Status](https://www.travis-ci.com/cmt2/RevGadgets.svg?branch=master)](https://www.travis-ci.com/cmt2/RevGadgets)
 
-<a href="https://revbayes.github.io/tutorials/intro/revgadgets"><img src="https://raw.githubusercontent.com/cmt2/RevGadgets/development/hex_sticker.png" height="200" align="right" /></a>
+<a href="https://revbayes.github.io/tutorials/intro/revgadgets"><img src="https://raw.githubusercontent.com/cmt2/RevGadgets/development/inst/hex_sticker.png" height="200" align="right" /></a>
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/mikeryanmay/RevGadgetsActionTest/workflows/R-CMD-check/badge.svg)](https://github.com/mikeryanmay/RevGadgetsActionTest/actions)
